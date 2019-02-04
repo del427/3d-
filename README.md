@@ -27,4 +27,4 @@ jquery-3.3.1.js
 通过引入jquery.js,在引入index.js文件.
 html结构需要一个div包裹几个img标签
 
-[轮播图事列](../3d轮播图.gif)
+(![轮播图事列](https://github.com/del427/3d-lunpotu/raw/master/3d轮播图.gif))
